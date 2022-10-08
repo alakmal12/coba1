@@ -1,0 +1,2 @@
+ini file1.txt
+tambah baris di file1.txt
