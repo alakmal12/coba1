@@ -1,2 +1,3 @@
 tambah file3.txt
 menambah baris di file3.txt
+hapus lagi barisnya
